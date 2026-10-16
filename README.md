@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hello there 👋
 
-<!--
-**8jiwoo/8jiwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jiwoo Ha, based in Singapore. I'm mostly into cybersecurity, and I like building things for the web.
 
-Here are some ideas to get you started:
+## Stuff I've built
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[PlateLoop](https://github.com/8jiwoo/plateloop)**: an AI tray scanner that measures food served, eaten and left over, so canteens cook the right amount
+- **[My portfolio](https://8jiwoo.github.io/)**: a first-person 3D room you can look around in
+
+## Programming languages I've used so far
+
+- Python
+- Java
+- JavaScript
+- SQL
+
+## Languages I speak
+
+- Korean (native)
+- English (native)
+- Chinese (I try my best)
+- Japanese (JLPT N5, still learning)
+
+## How to reach me
+
+- Portfolio: [8jiwoo.github.io](https://8jiwoo.github.io/)
+- LinkedIn: [jiwoohahaha](https://www.linkedin.com/in/jiwoohahaha)
