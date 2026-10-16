@@ -1,6 +1,6 @@
 # Hello there 👋
 
-I'm Jiwoo Ha, based in Singapore 🇸🇬
+I'm Jiwoo Ha, based in Singapore.
 
 I'm mostly into **cybersecurity**, and I like building things for the web, especially things you can poke around in.
 
