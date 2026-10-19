@@ -1,6 +1,6 @@
-# Hello there 👋
+# Hi
 
-I'm Jiwoo Ha, based in Singapore.
+Singapore based. NYPY2S2.
 
 I'm mostly into **cybersecurity**, and I like building things for the web, especially things you can poke around in.
 
