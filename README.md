@@ -1,24 +1,17 @@
 # Hi
 
-Singapore based. NYPY2S2.
+NYPY2S2. I specialise in cybersecurity. I draw and code for fun.
 
-I'm mostly into **cybersecurity**, and I like building things for the web, especially things you can poke around in.
+I like building things for the web, especially things you can poke around in.
 
 ## Stuff I've built
 
-- **[PlateLoop](https://github.com/8jiwoo/plateloop)**: an AI tray scanner that measures food served, eaten and left over, so canteens cook the right amount. Built for the *EcoLoop* sustainability hackathon in Singapore.
-  - **PlateLoop Kitchen**: a dashboard for canteen staff that forecasts tomorrow's order and tracks waste by dish
-  - **Loopi**: a student app where a virtual pet's health depends on the lunch you actually ate
-  - **Loopi Care** and **Loopi Work**: versions for hospitals and offices
-- **[My portfolio](https://8jiwoo.github.io/)**: a first-person 3D room you can look around in, made with Three.js
+- **[PlateLoop](https://github.com/8jiwoo/plateloop)**
+- **[My portfolio](https://8jiwoo.github.io/)**
 
-## Programming languages (or that sort of thing) I've used so far
+## Fun stuff about me
 
-- Python
-- Java
-- JavaScript
-- SQL
-- HTML & CSS
+## Not so fun stuff about me
 
 ## Languages I speak
 
@@ -27,9 +20,11 @@ I'm mostly into **cybersecurity**, and I like building things for the web, espec
 | Korean | Native |
 | English | Native |
 | Chinese | I try my best |
-| Japanese | JLPT N5, still learning |
+| Japanese | N5 JLPT; Beginner |
 
 ## How to reach me
 
+- Instagram:
+- Email:
 - Portfolio: [8jiwoo.github.io](https://8jiwoo.github.io/)
 - LinkedIn: [jiwoohahaha](https://www.linkedin.com/in/jiwoohahaha)
