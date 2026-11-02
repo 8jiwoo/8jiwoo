@@ -1,6 +1,6 @@
 # Hi
 
-NYPY2S2. I specialise in cybersecurity. I draw and code for fun.
+NYP Y2S2. I am currently specialising in cybersecurity. I draw and code for fun.
 
 I like building things for the web, especially things you can poke around in.
 
