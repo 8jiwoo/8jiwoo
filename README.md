@@ -1,17 +1,13 @@
 # Hi
 
-NYP Y2S2. I am currently specialising in cybersecurity. I draw and code for fun.
-
-I like building things for the web, especially things you can poke around in.
+NYP Y2S2. 
 
 ## Stuff I've built
 
 - **[PlateLoop](https://github.com/8jiwoo/plateloop)**
 - **[My portfolio](https://8jiwoo.github.io/)**
 
-## Fun stuff about me
 
-## Not so fun stuff about me
 
 ## Languages I speak
 
